@@ -6,4 +6,12 @@
 * Next step is to use the [BCO editor](http://www.biocomputeobject.org/bco_editor/) to create the BCO.
 * Final step, I built a Galaxy server on AWS and ran those same pipelines with the same data on it to create BCOs.
 
+## Step 1: Generate data from HIVE platform.
+
+## Step 2: Find a proper pipeline to run the data from the previous step on Galaxy.
+
+## Step 3: Extract the work history, use jsonResolver to transfer the data to what we want.
+
+## Step 4: Create BCO on the BCO Editor (half data maually and half from the result after jsonResolver)
+
 
