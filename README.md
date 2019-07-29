@@ -6,6 +6,5 @@
 * Next step is to use the [BCO editor](http://www.biocomputeobject.org/bco_editor/) to create the BCO.
 <<<<<<< HEAD
 * Final step, I built a Galaxy server on AWS and run those same pipelines with the same data on it to create BCOs.
-=======
 * Final step, I built a Galaxy server on AWS and run those same pipelines with the same data on it to create BCOs.
->>>>>>> 2c866f7feeefe98568c06ec4e739c11da5976f03
+
