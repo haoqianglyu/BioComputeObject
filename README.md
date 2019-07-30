@@ -12,6 +12,6 @@
 
 ## Step 3: Extract the work history, use jsonResolver to transfer the data to what we want.
 
-## Step 4: Create BCO on the BCO Editor (half data maually and half from the result after jsonResolver)
+## Step 4: Create BCO on the BCO Editor (half data maually and half from the result after jsonResolver).
 
 
