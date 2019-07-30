@@ -17,9 +17,9 @@ For more information in detail, click [here](https://github.com/haoqianglyu/BioC
 
 ## About the dataset:
 You can download the 1G, 10G, 100G, 1000G synthetic data generated from HIVE here, or you can go to the data folder, but the 1000G one exceeds 100M, so it is not included in the folder.
-* download 1G dataset [here](https://bco-gwu.s3.amazonaws.com/1G_data.fastq)
-* download 10G dataset [here](https://bco-gwu.s3.amazonaws.com/10G_data.fastq)
-* download 100G dataset [here](https://bco-gwu.s3.amazonaws.com/100G_data.fastq)
-* download 1000G dataset [here](https://bco-gwu.s3.amazonaws.com/1000G_data.fastq)
+* download 1G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/1G_data.fastq)
+* download 10G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/10G_data.fastq)
+* download 100G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/100G_data.fastq)
+* download 1000G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/1000G_data.fastq)
 
 
