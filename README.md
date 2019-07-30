@@ -7,6 +7,7 @@
 * Final step, I built a Galaxy server on AWS and ran those same pipelines with the same data on it to create BCOs.
 
 ## Step 1: Generate data from HIVE platform.
+For more information in detail, click [here](https://github.com/haoqianglyu/BioComputeObject/blob/master/readme/Step1_README.md).
 
 ## Step 2: Find a proper pipeline to run the data from the previous step on Galaxy.
 
