@@ -1,24 +1,22 @@
-# Step 1: Generate data from HIVE platform
-## 1. Login in the [HIVE Platform](https://hive.biochemistry.gwu.edu/dna.cgi?cmd=menu). Click the "HIVE-Portal" button on the upper left corner, then select the Genome Randomizer.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+17.10.21.png)
-## 2. Put some parameters into the blanks.
-* Input a name and number of reads you want for the data.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.30.40.png)
+# Build a Galaxy server on AWS
+## Step 1. Get AWS credentials
+* register [here](https://portal.aws.amazon.com/billing/signup#/start) for an Amazon Web Services (AWS) account.
+* Once you have created an account, log into the AWS Management Console.
+* Create the API access credentials. Do this by creating an IAM user: click on Services → IAM → Users → Add user.
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+16.59.14.png)
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.00.04.png)
+* Give the user a name (e.g., galaxy_cloudman)
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.02.31.png)
+* attach existing policies for EC2FullAccess and S3FullAccess. After reviewing the configuration, create the user. Once created, make a note of and download the API access credentials. Keep these credentials safe because they are all that is required to use your cloud account.
 
-* Set the noise.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.31.04.png)
+## Step 2. Launch your cluster
 
-* Introduce some manual mutations.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.31.34.png)
 
-* Preload the genome file from HIVE.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.32.01.png)
 
-## 3. Click the submit button and you will see the Sequence Randomizer is in computing progress.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.32.44.png)
+## Step 3. Access CloudMan and Galaxy
 
-## 4. After finishing computing, you can download the generated .fastq file to your local.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.33.45.png)
+
+
 
 
 
