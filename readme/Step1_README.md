@@ -14,13 +14,12 @@
 * Preload the genome file from HIVE.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.32.01.png)
 
-* Click the submit button and you will see the Sequence Randomizer is in computing progress.
+## 3. Click the submit button and you will see the Sequence Randomizer is in computing progress.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.32.44.png)
 
-* After finishing computing, you can download the generated .fastq file to your local.
+## 4. After finishing computing, you can download the generated .fastq file to your local.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.33.45.png)
 
-## 3.
 
 
 
