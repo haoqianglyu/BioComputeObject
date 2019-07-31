@@ -16,7 +16,7 @@ For more information in detail, click [here](https://github.com/haoqianglyu/BioC
 ## Step 4: Create BCO on the BCO Editor (half data maually and half from the result after jsonResolver).
 
 ## About the dataset:
-You can download the 1G, 10G, 100G, 1000G synthetic data generated from HIVE here.
+You can download my sample 1G, 10G, 100G, 1000G synthetic data generated from HIVE here.
 * download 1G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/1G_data.fastq)
 * download 10G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/10G_data.fastq)
 * download 100G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/100G_data.fastq)
