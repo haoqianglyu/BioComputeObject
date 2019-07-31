@@ -10,6 +10,7 @@
 For more information in detail, click [here](https://github.com/haoqianglyu/BioComputeObject/blob/master/readme/Step1_README.md).
 
 ## Step 2: Find a proper pipeline to run the data from the previous step on Galaxy.
+For more information in detail, click [here](https://github.com/haoqianglyu/BioComputeObject/tree/master/readme).
 
 ## Step 3: Extract the work history, use jsonResolver to transfer the data to what we want.
 
