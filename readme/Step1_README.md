@@ -3,17 +3,23 @@
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+17.10.21.png)
 ## 2. Put some parameters into the blanks.
 * Input a name and number of reads you want for the data.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+14.30.40.png)
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.30.40.png)
+
 * Set the noise.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.31.04.png)
+
 * Introduce some manual mutations.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.31.34.png)
+
 * Preload the genome file from HIVE.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.32.01.png)
+
 * Click th submit button and you will see the Sequence Randomizer is in computin progress.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.32.44.png)
+
 * After finishing computing, you can download the generated .fastq file to your local.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.33.45.png)
+
 ## 3.
 
 
