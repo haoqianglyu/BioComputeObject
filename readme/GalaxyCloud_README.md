@@ -7,7 +7,7 @@
 
 
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.00.04.png)
-* Give the user a name (e.g., galaxy_cloudman)
+* Give the user a name (e.g., cloud_demo)
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.02.31.png)
 * attach existing policies for EC2FullAccess and S3FullAccess. After reviewing the configuration, create the user. Once created, make a note of and download the API access credentials. Keep these credentials safe because they are all that is required to use your cloud account.
 
