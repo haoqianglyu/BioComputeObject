@@ -3,7 +3,7 @@
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+17.10.21.png)
 ## 2. Put some parameters into the blanks.
 * Input a name and number of reads you want for the data.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+17.10.21.png)
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+14.30.40.png)
 * Set the noise.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.31.04.png)
 * Introduce some manual mutations.
