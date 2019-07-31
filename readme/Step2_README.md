@@ -1,5 +1,5 @@
 # Step 2: Find a proper pipeline to run the data from the previous step on Galaxy
-* Reference for the pipeline mentioned is [here](https://www.melbournebioinformatics.org.au/tutorials/tutorials/variant_calling_galaxy_1/variant_calling_galaxy_1/).
+* Reference for the mentioned pipeline is [here](https://www.melbournebioinformatics.org.au/tutorials/tutorials/variant_calling_galaxy_1/variant_calling_galaxy_1/).
 ## 1. Login in the [Galaxy Platform](https://usegalaxy.org). Create a work history, then click the Get Data -> Upload File on the left menu bar, set the data type to fastqsanger.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+17.10.21.png)
 
