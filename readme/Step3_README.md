@@ -1,24 +1,13 @@
-# Step 1: Generate data from HIVE platform
-## 1. Login in the [HIVE Platform](https://hive.biochemistry.gwu.edu/dna.cgi?cmd=menu). Click the "HIVE-Portal" button on the upper left corner, then select the Genome Randomizer.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+17.10.21.png)
-## 2. Put some parameters into the blanks.
-* Input a name and number of reads you want for the data.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.30.40.png)
+# Step 1: Extract the work history, use jsonResolver to transfer the data to what we want
+## 1. Login in the [Galaxy Platform](https://usegalaxy.org). Choose the Work History that you want to extract. Right click on the setting button, select "Extract Workflow".
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+16.12.59.png)
 
-* Set the noise.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.31.04.png)
+## 2. Click on "Create Workflow".
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+16.13.43.png)
 
-* Introduce some manual mutations.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.31.34.png)
+## 3. Click the Workflow on the top, then you can see the workflow you created just now. Then click "download".
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-30+at+16.16.49.png)
 
-* Preload the genome file from HIVE.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.32.01.png)
-
-## 3. Click the submit button and you will see the Sequence Randomizer is in computing progress.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.32.44.png)
-
-## 4. After finishing computing, you can download the generated .fastq file to your local.
-![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+14.33.45.png)
 
 
 
