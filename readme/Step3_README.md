@@ -1,4 +1,4 @@
-# Step 1: Extract the work history, use jsonResolver to transfer the data to what we want
+# Step 3: Extract the work history, use jsonResolver to transfer the data to what we want
 ## 1. Login in the [Galaxy Platform](https://usegalaxy.org). Choose the Work History that you want to extract. Right click on the setting button, select "Extract Workflow".
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+16.12.59.png)
 
