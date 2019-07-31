@@ -21,8 +21,8 @@ In this step, I will create a new cluster by launching a virtual server in the c
 * Head to the [CloudLaunch application](https://launch.usegalaxy.org/catalog) and login through one of the available authentication providers. 
 * Once logged in, choose the Galaxy CloudMan appliance.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.32.34.png)
-
-
+* We now need to configure the appliance launch properties. This means choosing one of the available appliance versions, the target cloud infrastructure and providing the cloud access credentials. For the Amazon cloud, the access credentials are the API keys we obtained in step 1 above. After supplying the credentials, click Test and use these credentials.
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.36.15.png)
 
 ## Step 3. Access CloudMan and Galaxy
 
