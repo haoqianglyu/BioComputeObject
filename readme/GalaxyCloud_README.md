@@ -4,6 +4,8 @@
 * Once you have created an account, log into the AWS Management Console.
 * Create the API access credentials. Do this by creating an IAM user: click on Services → IAM → Users → Add user.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+16.59.14.png)
+
+
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.00.04.png)
 * Give the user a name (e.g., galaxy_cloudman)
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.02.31.png)
