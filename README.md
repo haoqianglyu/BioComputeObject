@@ -13,8 +13,10 @@ For more information in detail, click [here](https://github.com/haoqianglyu/BioC
 For more information in detail, click [here](https://github.com/haoqianglyu/BioComputeObject/blob/master/readme/Step2_README.md).
 
 ## Step 3: Extract the work history, use jsonResolver to transfer the data to what we want.
+For more information in detail, click [here](https://github.com/haoqianglyu/BioComputeObject/blob/master/readme/Step3_README.md).
 
 ## Step 4: Create BCO on the BCO Editor (half data maually and half from the result after jsonResolver).
+For more information in detail, click [here](https://github.com/haoqianglyu/BioComputeObject/blob/master/readme/Step4_README.md).
 
 ## About the dataset:
 You can download my sample 1G, 10G, 100G, 1000G synthetic data generated from HIVE here.
