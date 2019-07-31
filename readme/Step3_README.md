@@ -8,7 +8,8 @@
 ## 3. Click the Workflow on the top, then you can see the workflow you created just now. Then click "download".
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+16.16.49.png)
 
-
+## 4. Use the JsonResolver I give in the Galaxy-to-BCO folder, run the jsonparse.py.
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+16.29.00.png)
 
 
 
