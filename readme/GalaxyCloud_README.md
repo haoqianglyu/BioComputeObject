@@ -23,7 +23,8 @@ In this step, I will create a new cluster by launching a virtual server in the c
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.32.34.png)
 * We now need to configure the appliance launch properties. This means choosing one of the available appliance versions, the target cloud infrastructure and providing the cloud access credentials. For the Amazon cloud, the access credentials are the API keys we obtained in step 1 above. After supplying the credentials, click Test and use these credentials.
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.36.15.png)
-
+* Before launching, we need to give our cluster a name. A default one is provided but feel free to replace it with something more suitable and descriptive. We also need to supply a password of choice that will protect access to the cluster once launched. Next is setting the size of storage to be associated with the cluster. The value here is in gigabytes and depends on the intended usage. We can also choose the type of virtual hardware our server will use. Then click Launch.
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.42.32.png)
 ## Step 3. Access CloudMan and Galaxy
 
 
