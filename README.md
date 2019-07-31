@@ -23,4 +23,6 @@ You can download my sample 1G, 10G, 100G, 1000G synthetic data generated from HI
 * download 100G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/100G_data.fastq)
 * download 1000G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/1000G_data.fastq)
 
+## If you are interested in building a Galaxy Server on the AWS, click [here]() for more detail.
+
 
