@@ -17,6 +17,10 @@
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.22.37.png)
 
 ## Step 2. Launch your cluster
+In this step, I will create a new cluster by launching a virtual server in the cloud, which will act as the access point for Galaxy and the cluster.
+* Head to the [CloudLaunch application](https://launch.usegalaxy.org/catalog) and login through one of the available authentication providers. 
+* Once logged in, choose the Galaxy CloudMan appliance.
+![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+17.32.34.png)
 
 
 
