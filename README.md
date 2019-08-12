@@ -20,9 +20,9 @@ For more information in detail, click [here](https://github.com/haoqianglyu/BioC
 
 ## About the dataset:
 You can download my sample 10G, 100G, 1000G synthetic data generated from HIVE here.
-* download 10G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/10G_data.fastq)
-* download 100G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/100G_data.fastq)
-* download 1000G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/1000G_data.fastq)
+* download 10G dataset [here](https://hive.biochemistry.gwu.edu/dna.cgi?cmd=objFile&ids=582485&filename=shortReads.fastq&raw=1)
+* download 100G dataset [here](https://hive.biochemistry.gwu.edu/dna.cgi?cmd=objFile&ids=582486&filename=shortReads.fastq&raw=1)
+* download 1000G dataset [here](https://hive.biochemistry.gwu.edu/dna.cgi?cmd=objFile&ids=582492&filename=shortReads.fastq&raw=1)
 
 ## If you are interested in building a Galaxy Server on the AWS, click [here](https://github.com/haoqianglyu/BioComputeObject/blob/master/readme/GalaxyCloud_README.md) for more detail.
 
