@@ -19,8 +19,7 @@ For more information in detail, click [here](https://github.com/haoqianglyu/BioC
 For more information in detail, click [here](https://github.com/haoqianglyu/BioComputeObject/blob/master/readme/Step4_README.md).
 
 ## About the dataset:
-You can download my sample 1G, 10G, 100G, 1000G synthetic data generated from HIVE here.
-* download 1G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/1G_data.fastq)
+You can download my sample 10G, 100G, 1000G synthetic data generated from HIVE here.
 * download 10G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/10G_data.fastq)
 * download 100G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/100G_data.fastq)
 * download 1000G dataset [here](https://bco-gwu.s3.amazonaws.com/dataset/1000G_data.fastq)
