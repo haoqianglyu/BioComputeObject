@@ -7,6 +7,7 @@
 ![image](https://bco-gwu.s3.amazonaws.com/images/Screen+Shot+2019-07-31+at+15.25.14.png)
 
 ## 3. I will map (align) the reads with the BWA tool to the human reference genome. Here, I use Human reference genome 19 (hg19). Search for Map with BWA-MEM.
+### Purpose: Be able to identify the sequence changes with respect to the reference genome.
 * Will you selection a reference genome...: Use a built-in genome index
 * Using reference genome: set to hg19
 * Single or Paired-end reads: set to Single
